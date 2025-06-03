@@ -8,14 +8,32 @@
 
 
 <strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
-  PBQ DEPLOY & INVENTORY
+  PBQ DEPLOY
 </strong>
 
 
 <ul>
 <li>
-  <a href="https://github.com/RashadHagen/Computer-Management-Create-A-Local-User-Account">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Computer Management – Create A Local User Account</strong>
+  <a href="https://github.com/RashadHagen/PDQ-Deploy-Deploy-Software">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">PDQ Deploy – Deploy Software</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<br /><br />
+
+
+<strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
+  PBQ INVENTORY
+</strong>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/PDQ-Deploy-Deploy-Software">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">PDQ Deploy – Deploy Software</strong>
   </a>
   <br/>
 </li>
