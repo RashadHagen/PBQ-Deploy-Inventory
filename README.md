@@ -32,8 +32,8 @@
 
 <ul>
 <li>
-  <a href="https://github.com/RashadHagen/PDQ-Deploy-Deploy-Software">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">PDQ Deploy – Deploy Software</strong>
+  <a href="https://github.com/RashadHagen/PDQ-Inventory-Importance-All-Computers-Tab-and-Tools-Tab">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">PDQ Inventory – Why It Is Important, Add A Computer, Right-Clicking A Computer Name, Double-Clicking A Computer Name, Get Into File Explorer Of A Client Computer, Tools Functions</strong>
   </a>
   <br/>
 </li>
